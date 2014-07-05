@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class Gold : MonoBehaviour
+public class Medal : MonoBehaviour
 {
     public GameObject clearText;
 
