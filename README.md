@@ -7,19 +7,20 @@
 
 ### 前編：Unity 復習
 
-- サンプルを見てみる
-- Unity 基本操作
+- 作例を確認
 - プレイヤーの操作系
 - 箱のプレハブ化と配置
-- メダルの配置
-- モデルのインポート
+- メダルの配置と当たり判定
+- “Clear!!” モデルのインポート
+- Active フラグの操作
 
 ### 後編：Unity 応用
 
-- Sample Assets のインポート
+- Sample Assets のインポート（かなり時間かかる）
+- 様々なサンプル (Sample Assets/Sample Scenes/Scenes)
 - Prototype プレハブを使ってみる
-- 様々な Vehicle
 - サンプルを豪華に作り直してみる
+- AI を使ってみる
 
 ### ソースコードリスト
 
@@ -64,3 +65,4 @@ public class Medal : MonoBehaviour
     }
 }
 ```
+
