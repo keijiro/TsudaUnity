@@ -17,6 +17,7 @@
 ### 後編：Unity 応用
 
 - Sample Assets のインポート（かなり時間かかる）
+- Asset Store と Sample Asset の説明 → [リンク](https://www.assetstore.unity3d.com/jp/#!/content/14474)
 - 様々なサンプル (Sample Assets/Sample Scenes/Scenes)
 - Prototype プレハブを使ってみる
 - サンプルを豪華に作り直してみる
