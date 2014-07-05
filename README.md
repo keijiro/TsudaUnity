@@ -2,8 +2,8 @@
 
 ### 配布物
 
-- [Clear.fbx](https://github.com/keijiro/TsudaUnity/raw/handouts/Clear.fbx)
-- [Sample Assets beta.unitypackage](https://dl.dropboxusercontent.com/u/137644105/Sample%20Assets%20beta.unitypackage)
+- ["Clear!!" の文字のモデル](https://github.com/keijiro/TsudaUnity/raw/handouts/Clear.fbx)
+- [Sample Assets (beta)](https://dl.dropboxusercontent.com/u/137644105/Sample%20Assets%20beta.unitypackage)
 
 ### 前編：Unity 復習
 
@@ -13,6 +13,17 @@
 - 箱のプレハブ化と配置
 - メダルの配置
 - モデルのインポート
+
+### 後編：Unity 応用
+
+- Sample Assets のインポート
+- Prototype プレハブを使ってみる
+- 様々な Vehicle
+- サンプルを豪華に作り直してみる
+
+### ソースコードリスト
+
+#### Player.cs
 
 ```csharp
 using UnityEngine;
@@ -36,6 +47,8 @@ public class Player : MonoBehaviour
 }
 ```
 
+#### Medal.cs
+
 ```csharp
 using UnityEngine;
 using System.Collections;
@@ -53,10 +66,3 @@ public class Medal : MonoBehaviour
     }
 }
 ```
-
-### 後編：Unity 応用
-
-- Sample Assets のインポート
-- Prototype プレハブを使ってみる
-- 様々な Vehicle
-- サンプルを豪華に作り直してみる
