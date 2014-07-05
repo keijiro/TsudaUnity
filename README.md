@@ -23,9 +23,8 @@
 
 ### ソースコードリスト
 
-#### Player.cs
-
 ```csharp
+// Player.cs
 using UnityEngine;
 using System.Collections;
 
@@ -47,9 +46,8 @@ public class Player : MonoBehaviour
 }
 ```
 
-#### Medal.cs
-
 ```csharp
+// Medal.cs
 using UnityEngine;
 using System.Collections;
 
