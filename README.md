@@ -3,7 +3,7 @@
 ### 配布物
 
 - ["Clear!!" の文字のモデル](https://github.com/keijiro/TsudaUnity/raw/handouts/Clear.fbx)
-- [Sample Assets (beta)](https://dl.dropboxusercontent.com/u/137644105/Sample%20Assets%20beta.unitypackage)
+- [Sample Assets (beta)](https://www.assetstore.unity3d.com/jp/#!/content/14474)
 
 ### 前編：Unity 復習
 
@@ -17,7 +17,7 @@
 ### 後編：Unity 応用
 
 - Sample Assets のインポート（かなり時間かかる）
-- Asset Store と Sample Asset の説明 → [リンク](https://www.assetstore.unity3d.com/jp/#!/content/14474)
+- Asset Store と Sample Asset の説明
 - 様々なサンプル (Sample Assets/Sample Scenes/Scenes)
 - Prototype プレハブを使ってみる
 - サンプルを豪華に作り直してみる
